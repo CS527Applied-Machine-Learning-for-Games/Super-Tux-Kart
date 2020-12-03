@@ -29,9 +29,9 @@ Game Playing Agent Implemented Using Deep Learning Which Achieves An Average Ran
 
 **Demo** : https://youtu.be/ZwdQvceGxTo
 
-**EDD** : 
+**EDD** : https://drive.google.com/file/d/1sZwF5wOqjxgvU8BJ9DxgXrILm5DXHNJS/view?usp=sharing
 
-**Technical Paper** : 
+**Technical Paper** : https://drive.google.com/file/d/1iFMzAvM9RlOaZzcsg4HZTQZCcz-dXtqA/view?usp=sharing
 
 **Presentation** : https://drive.google.com/file/d/1T4RhAUo1_ouNnUoYnng6BtHpnCB2i7ic/view?usp=sharing
 
