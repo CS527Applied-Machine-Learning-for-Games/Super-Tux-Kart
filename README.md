@@ -33,7 +33,7 @@ Game Playing Agent Implemented Using Deep Learning Which Achieves An Average Ran
 
 **Technical Paper** : 
 
-**Presentation** : 
+**Presentation** : https://drive.google.com/file/d/1T4RhAUo1_ouNnUoYnng6BtHpnCB2i7ic/view?usp=sharing
 
 ## Wesbite
 
