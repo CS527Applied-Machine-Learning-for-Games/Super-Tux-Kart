@@ -19,10 +19,10 @@ You can race by yourself against the computer, compete in several Grand Prix cup
 
 Game Playing Agent Implemented Using Deep Learning Which Achieves An Average Rank Of 2 In Novice And Intermediate Racing Difficulties
 
-**Normal Race Mode**
-**Time-Trial Mode**
-**Follow The Leader Mode**
-**Elimination Mode**
+- **Normal Race Mode**
+- **Time-Trial Mode**
+- **Follow The Leader Mode**
+- **Elimination Mode**
 
 
 ## Relevant documents
