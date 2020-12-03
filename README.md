@@ -2,11 +2,11 @@
 
 ## Team Members
 
-- Ayush Jain <i>ayushbha@usc.edu</i>
-- Akshay Bhosle <i>abhosle@usc.edu</i>
-- Hardik Jain <i>hardikja@usc.edu</i>
-- Trupti Despande <i>truptich@usc.edu</i>
-- Priyanka Despande <i>psdeshpa@usc.edu</i>
+- **Ayush Jain <i>ayushbha@usc.edu</i>**
+- **Akshay Bhosle <i>abhosle@usc.edu</i>**
+- **Hardik Jain <i>hardikja@usc.edu</i>**
+- **Trupti Despande <i>truptich@usc.edu</i>**
+- **Priyanka Despande <i>psdeshpa@usc.edu</i>**
 
 ## Introduction
 
@@ -17,7 +17,7 @@ You can race by yourself against the computer, compete in several Grand Prix cup
 
 ## Achievements
 
-Game Playing Agent Implemented Using Deep Learning Which Achieves An Average Rank Of 2 In Novice And Intermediate Racing Difficulties
+Game Playing Agent Implemented Using Deep Learning Which Achieves An Average Rank 1 In Novice And Rank 2 In Intermediate Racing Difficulties
 
 - **Normal Race Mode**
 - **Time-Trial Mode**
